@@ -21,6 +21,9 @@
 ## Announcements Page
 ![Screenshot 2023-09-29 150537](https://github.com/AgnesLily2772/Escuela/assets/97900099/ede22e5e-fb33-4949-836c-d02eaf58e8a3)
 
+## Certificate Input Page
+![Screenshot 2023-09-29 151310](https://github.com/AgnesLily2772/Escuela/assets/97900099/f4bc562f-c0ea-47c4-a929-51b7083ab4ac)
+
 ## Student Certifcate Display Page
 ![Screenshot 2023-09-29 150613](https://github.com/AgnesLily2772/Escuela/assets/97900099/75230bab-90ad-4daa-a92b-d455810a96ec)
 
